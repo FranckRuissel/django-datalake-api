@@ -1,9 +1,3 @@
-# datalake_api/views.py
-"""
-Vues complètes pour l'API Data Lake
-Compatible avec vos modèles et urls.py
-"""
-
 from rest_framework.views import APIView
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.response import Response
